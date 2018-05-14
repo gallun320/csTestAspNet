@@ -1,0 +1,10 @@
+/home/gallun/csTestAspNet/bin/Debug/netcoreapp2.0/csTestAspNet.deps.json
+/home/gallun/csTestAspNet/bin/Debug/netcoreapp2.0/csTestAspNet.runtimeconfig.json
+/home/gallun/csTestAspNet/bin/Debug/netcoreapp2.0/csTestAspNet.runtimeconfig.dev.json
+/home/gallun/csTestAspNet/bin/Debug/netcoreapp2.0/csTestAspNet.dll
+/home/gallun/csTestAspNet/bin/Debug/netcoreapp2.0/csTestAspNet.pdb
+/home/gallun/csTestAspNet/obj/Debug/netcoreapp2.0/csTestAspNet.csproj.CoreCompileInputs.cache
+/home/gallun/csTestAspNet/obj/Debug/netcoreapp2.0/csTestAspNet.AssemblyInfoInputs.cache
+/home/gallun/csTestAspNet/obj/Debug/netcoreapp2.0/csTestAspNet.AssemblyInfo.cs
+/home/gallun/csTestAspNet/obj/Debug/netcoreapp2.0/csTestAspNet.dll
+/home/gallun/csTestAspNet/obj/Debug/netcoreapp2.0/csTestAspNet.pdb
